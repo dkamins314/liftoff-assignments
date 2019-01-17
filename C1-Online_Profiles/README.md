@@ -8,7 +8,7 @@ For this assignment you will need to upload your resume, and provide links to yo
  
 ### GitHub
 Provide a link to your GitHub account here.
-https://github.com/dkamins314/liftoff-assignments
+https://github.com/dkamins314/liftoff-assignments/commits?author=dkamins314
  
 ### LinkedIn
 Provide a link to your LinkedIn account here.
