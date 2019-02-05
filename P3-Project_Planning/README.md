@@ -16,4 +16,4 @@ https://app.moqups.com/dkamins314@gmail.com/56Am5SMvyB/view
  https://www.pivotaltracker.com/projects/2238520.
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+(Include a link to your project on GitHub) https://github.com/dkamins314/event3
